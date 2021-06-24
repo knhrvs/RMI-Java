@@ -1,0 +1,3 @@
+com\feutech\rmiserver\Server.class
+com\feutech\rmiserver\MessengerService.class
+com\feutech\rmiserver\MessengerServiceImplementation.class
